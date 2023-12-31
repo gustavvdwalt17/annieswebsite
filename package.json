@@ -1,6 +1,7 @@
 {
+  "name": "annieswebsite",
   "homepage":"https://gustavvdwalt17.github.io/annieswebsite",
-  "name": "annie_website",
+ 
   "version": "0.1.0",
   "private": false,
   "dependencies": {
