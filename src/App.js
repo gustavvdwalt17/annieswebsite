@@ -18,7 +18,7 @@ function App() {
           element={<SuikerBekkieWoonstel />}
         />
       </Routes>
-      {/* <Home /> */}
+      <Home />
     </div>
   );
 }
