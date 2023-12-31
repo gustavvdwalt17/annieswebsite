@@ -12,7 +12,11 @@ function App() {
       <Routes>
         <Route exact path="/annieswebsite" element={<Home />} />
         <Route path="/about" element={<About />} />
-        <Route path="/bosimg" element={<SuikerBekkieBosImageGallery />} />
+        <Route
+          exact
+          path="/annieswebsite/bosimg"
+          element={<SuikerBekkieBosImageGallery />}
+        />
         <Route
           path="/suikerbekkiewoonstel"
           element={<SuikerBekkieWoonstel />}
