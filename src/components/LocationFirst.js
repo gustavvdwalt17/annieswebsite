@@ -30,9 +30,9 @@ function LocationFirst() {
       </div>
 
       <div className="seemmore">
-        {/* <Link to={"suikerbekkiewoonstel"}>
+        <Link to={"suikerbekkiewoonstel"}>
           <button className="seemorebtn">See more...</button>
-        </Link> */}
+        </Link>
       </div>
     </div>
   );

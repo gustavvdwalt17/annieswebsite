@@ -36,9 +36,9 @@ function LocationSecond() {
       </div>
 
       <div className="seemmore">
-        {/* <Link to={"bosimg"}>
+        <Link to={"bosimg"}>
           <button className="seemorebtn">See more...</button>
-        </Link> */}
+        </Link>
       </div>
     </div>
   );
