@@ -9,7 +9,7 @@ import SuikerBekkieWoonstel from "./components/SuikerBekkieWoonstel";
 function App() {
   return (
     <div className="App">
-      {/* <Routes>
+      <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/bosimg" element={<SuikerBekkieBosImageGallery />} />
@@ -17,7 +17,7 @@ function App() {
           path="/suikerbekkiewoonstel"
           element={<SuikerBekkieWoonstel />}
         />
-      </Routes> */}
+      </Routes>
       <Home />
     </div>
   );
