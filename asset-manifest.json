@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/annieswebsite/static/css/main.2d921495.css",
+    "main.js": "/annieswebsite/static/js/main.07824869.js",
+    "static/media/woonstel3.jpg": "/annieswebsite/static/media/woonstel3.400fea1394abf949a35a.jpg",
+    "static/media/bos1.jpg": "/annieswebsite/static/media/bos1.f863d65b76fa849c97d2.jpg",
+    "static/media/bos15.jpg": "/annieswebsite/static/media/bos15.9ce85a5be332661d42c8.jpg",
+    "static/media/bos16.jpg": "/annieswebsite/static/media/bos16.56249c68079b1a87d85b.jpg",
+    "static/media/bos13.jpg": "/annieswebsite/static/media/bos13.7d3a793bee13ad3b24d9.jpg",
+    "static/media/bos7.jpg": "/annieswebsite/static/media/bos7.6f17c65aedb492ab49ab.jpg",
+    "static/media/woonstelBuite_2.jpg": "/annieswebsite/static/media/woonstelBuite_2.d3a4e0baa4c876b59ae5.jpg",
+    "static/media/woonstelBuite.jpg": "/annieswebsite/static/media/woonstelBuite.91fc5508989f6b845c2c.jpg",
+    "static/media/bos14.jpg": "/annieswebsite/static/media/bos14.856770277d6afa536597.jpg",
+    "static/media/woonstel10.jpg": "/annieswebsite/static/media/woonstel10.f9fe4467475ec92363b8.jpg",
+    "static/media/woonstel9.jpg": "/annieswebsite/static/media/woonstel9.f67058742b65a8fbabde.jpg",
+    "static/media/bos12.jpg": "/annieswebsite/static/media/bos12.e4c95ca0bbc209fc5a71.jpg",
+    "static/media/bos10.jpg": "/annieswebsite/static/media/bos10.5dee0fc3a14ccfa2f697.jpg",
+    "static/media/bos6.jpg": "/annieswebsite/static/media/bos6.436f033138e718fb3528.jpg",
+    "static/media/kerk.jpg": "/annieswebsite/static/media/kerk.24ac86807635a4a3a823.jpg",
+    "static/media/bos5.jpg": "/annieswebsite/static/media/bos5.392abf98e945bfcb4179.jpg",
+    "static/media/bos4.jpg": "/annieswebsite/static/media/bos4.89b3aecf96256704bcf0.jpg",
+    "static/media/woonstel5.jpg": "/annieswebsite/static/media/woonstel5.97ea47422796fd902e57.jpg",
+    "static/media/bos3.jpg": "/annieswebsite/static/media/bos3.871d4e3a349c0fccfe23.jpg",
+    "static/media/bos11.jpg": "/annieswebsite/static/media/bos11.493eeb834aac3ab12b15.jpg",
+    "static/media/woonstel8.jpg": "/annieswebsite/static/media/woonstel8.b65b9153fabb48c67503.jpg",
+    "static/media/bos2.jpg": "/annieswebsite/static/media/bos2.1f1764854df026b7e9cd.jpg",
+    "static/media/bos8.jpg": "/annieswebsite/static/media/bos8.f5e87584e6dc9961682e.jpg",
+    "static/media/woonstel4.jpg": "/annieswebsite/static/media/woonstel4.4dae4f1c29be63973de8.jpg",
+    "static/media/bos9.jpg": "/annieswebsite/static/media/bos9.72f7b57a7259f02b7531.jpg",
+    "static/media/homeLogo.jpg": "/annieswebsite/static/media/homeLogo.8cca3050bb858d077c40.jpg",
+    "static/media/woonstel47.jpg": "/annieswebsite/static/media/woonstel47.1402e72a709b031c8319.jpg",
+    "static/media/pearlybeach.jpeg": "/annieswebsite/static/media/pearlybeach.4ede76f6ccce15a3c000.jpeg",
+    "static/media/woonstel6.jpg": "/annieswebsite/static/media/woonstel6.a5e7196caf05842cc68e.jpg",
+    "static/media/maritjies.jpg": "/annieswebsite/static/media/maritjies.017ae5d50fdc7fd28d74.jpg",
+    "index.html": "/annieswebsite/index.html",
+    "main.2d921495.css.map": "/annieswebsite/static/css/main.2d921495.css.map",
+    "main.07824869.js.map": "/annieswebsite/static/js/main.07824869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d921495.css",
+    "static/js/main.07824869.js"
+  ]
+}
