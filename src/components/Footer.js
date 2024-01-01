@@ -20,8 +20,8 @@ const Footer = () => {
       <div className="bottom">
         <div>
           <h4>Contact</h4>
-          <small>089 802 1385</small>
-          <small>email@email.com</small>
+          <small>079 802 1385</small>
+          <small>anneriduplessis@yahoo.com </small>
           <small>Suikerbekkie, Baardskeerdersbos, South Africa, 7221</small>
         </div>
       </div>
