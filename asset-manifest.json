@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/annieswebsite/static/css/main.2d921495.css",
-    "main.js": "/annieswebsite/static/js/main.19d926d8.js",
+    "main.css": "/annieswebsite/static/css/main.bba02a4d.css",
+    "main.js": "/annieswebsite/static/js/main.39943770.js",
     "static/media/woonstel3.jpg": "/annieswebsite/static/media/woonstel3.400fea1394abf949a35a.jpg",
     "static/media/bos1.jpg": "/annieswebsite/static/media/bos1.f863d65b76fa849c97d2.jpg",
     "static/media/bos15.jpg": "/annieswebsite/static/media/bos15.9ce85a5be332661d42c8.jpg",
@@ -33,11 +33,11 @@
     "static/media/woonstel6.jpg": "/annieswebsite/static/media/woonstel6.a5e7196caf05842cc68e.jpg",
     "static/media/maritjies.jpg": "/annieswebsite/static/media/maritjies.017ae5d50fdc7fd28d74.jpg",
     "index.html": "/annieswebsite/index.html",
-    "main.2d921495.css.map": "/annieswebsite/static/css/main.2d921495.css.map",
-    "main.19d926d8.js.map": "/annieswebsite/static/js/main.19d926d8.js.map"
+    "main.bba02a4d.css.map": "/annieswebsite/static/css/main.bba02a4d.css.map",
+    "main.39943770.js.map": "/annieswebsite/static/js/main.39943770.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d921495.css",
-    "static/js/main.19d926d8.js"
+    "static/css/main.bba02a4d.css",
+    "static/js/main.39943770.js"
   ]
 }
