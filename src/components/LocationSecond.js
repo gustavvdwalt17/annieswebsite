@@ -1,14 +1,56 @@
-import React from "react";
+import React, { useState } from "react";
 import {
-  homeLogo,
-  woonstelBuite,
-  woonstelBuite_2,
+  bos10,
+  bos11,
+  bos12,
+  bos13,
+  bos14,
+  bos15,
+  bos3,
+  bos4,
+  bos5,
+  bos6,
+  bos7,
+  bos8,
+  bos9,
   bos1,
   bos2,
 } from "../assets";
+import { ArrowBigLeft, ArrowBigRight } from "lucide-react";
 import "./LocationFirst.css";
 import { Link } from "react-router-dom";
 function LocationSecond() {
+  const [imgIndex, setImgIndex] = useState(0);
+  const imgUrls = [
+    bos10,
+    bos11,
+    bos12,
+    bos13,
+    bos14,
+    bos15,
+    bos3,
+    bos4,
+    bos5,
+    bos6,
+    bos7,
+    bos8,
+    bos9,
+    bos1,
+    bos2,
+  ];
+  function showPrevImg() {
+    setImgIndex((index) => {
+      if (index === 0) return imgUrls.length - 1;
+      return index - 1;
+    });
+  }
+
+  function showNextImg() {
+    setImgIndex((index) => {
+      if (index === imgUrls.length - 1) return 0;
+      return index + 1;
+    });
+  }
   return (
     <div className="location_1">
       <h1>Suikerbekkie Bos</h1>
@@ -34,11 +76,35 @@ function LocationSecond() {
           <img src={bos2}></img>
         </div>
       </div>
-
+      {/* 
       <div className="seemmore">
         <Link to={"/bosimg"}>
           <button className="seemorebtn">See more...</button>
         </Link>
+      </div> */}
+      <div
+        style={{
+          width: "100%",
+          height: 400,
+          position: "relative",
+          marginTop: 50,
+        }}
+      >
+        <img src={imgUrls[imgIndex]} className="img_slider" />
+        <button
+          onClick={showPrevImg}
+          className="img_slider-btn"
+          style={{ left: 0 }}
+        >
+          <ArrowBigLeft />
+        </button>
+        <button
+          onClick={showNextImg}
+          className="img_slider-btn"
+          style={{ right: 0 }}
+        >
+          <ArrowBigRight />
+        </button>
       </div>
     </div>
   );

@@ -112,3 +112,29 @@ cursor: pointer;
 color: black;
 }
 
+.imgSlider{
+    object-fit: cover;
+    width: 100%;
+    display: block;
+}
+
+.img_slider-btn{
+    all: unset;
+    display: block;
+    top:0;
+    bottom:0;
+  position: absolute; 
+  padding: 1rem;
+  cursor: pointer; 
+  transition: background-color 100ms ease-in-out;
+ 
+}
+.img_slider-btn:hover{
+  background-color: rgba(0,0,0,0.19);
+}
+.img_slider-btn > * {
+   stroke: white;
+   fill: black; 
+    width: 2rem;
+        height: 2rem;
+}
